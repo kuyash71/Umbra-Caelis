@@ -11,10 +11,14 @@
             "id": "a3947ee12e98707f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Events/1221 AHW - Highclash of Kings.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Yeni sekme"
+              "title": "1221 AHW - Highclash of Kings"
             }
           }
         ]
@@ -201,8 +205,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5487bf164589b60",
+  "active": "1886b9354a379155",
   "lastOpenFiles": [
+    "LICENSE",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
