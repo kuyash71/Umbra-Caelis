@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "942b94f65b11d4ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "7340ad5c3bb35a6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3947ee12e98707f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6aecadfc6249b387",
+    "type": "split",
+    "children": [
+      {
+        "id": "536338ff7ab29301",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5487bf164589b60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dosya Gezgini"
+            }
+          },
+          {
+            "id": "88acbf90464bd2c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ara"
+            }
+          },
+          {
+            "id": "ea034410043d519b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Yer İmleri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "26cdeee67cdf9759",
+    "type": "split",
+    "children": [
+      {
+        "id": "65cd30b4fd520aac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d95e33dcc2c0cd11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Events/1289 AHW - Blaze that Burns.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1289 AHW - Blaze that Burns için geri bağlantılar"
+            }
+          },
+          {
+            "id": "5a9327abdadd7352",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Events/1289 AHW - Blaze that Burns.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1289 AHW - Blaze that Burns'dan giden bağlantılar"
+            }
+          },
+          {
+            "id": "b6d36c91e266bb90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiketler"
+            }
+          },
+          {
+            "id": "e807a08f12c2ae19",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tüm özellikler"
+            }
+          },
+          {
+            "id": "c470c5701ba43614",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Events/1289 AHW - Blaze that Burns.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1289 AHW - Blaze that Burns ana hatları"
+            }
+          },
+          {
+            "id": "f814cb57fdb446eb",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "1886b9354a379155",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Hızlı geçişi aç": false,
+      "graph:Grafik görünümünü aç": false,
+      "canvas:Yeni tuval oluşturun": false,
+      "daily-notes:Bugünün Notunu Aç": false,
+      "templates:Şablon ekle": false,
+      "command-palette:Komut paletini aç": false,
+      "bases:Create new base": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f5487bf164589b60",
+  "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "Events/108  BHW - Hundred-Year Blood Crusade.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "Başlıksız.base",
+    "Events/1221 AHW - Highclash of Kings.md",
+    "Events/1289 AHW - Unholy Usurp.md",
+    "Events/1292 AHW - I. Continental War.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Events/1291 AHW - Reconquest of Mountains.md",
+    "Events/1299 AHW - II. Continental War.md",
+    "Events/1307 AHW - III. Continental War.md",
+    "Events/1223 AHW - Great Dwarven Rebellion.md",
+    "Houses/Consul.md",
+    "Houses/Westerra/Dragonic Empire/Baolong.md",
+    "Stories/Foreign Lands",
+    "Stories/Creating Gods",
+    "Stories/Casino das Loras/Playables",
+    "Stories/Casino das Loras/Heroes",
+    "Stories/Casino das Loras",
+    "Pre-Built Heroes",
+    "Stories",
+    "ChatGPT Image 24 Kas 2025 17_15_08.png",
+    "VVY.png",
+    "JB.png"
+  ]
+}

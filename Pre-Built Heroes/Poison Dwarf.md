@@ -1,0 +1,1 @@
+Ironsmith hanesinde bulunan "Ekutie" sınıfı kimyasal silahlar kullanan bir birim. Düskarl birimleri ile arası kötü.

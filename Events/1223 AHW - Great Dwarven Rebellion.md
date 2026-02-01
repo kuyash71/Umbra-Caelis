@@ -1,0 +1,25 @@
+The Great Dwarf Uprising began with the Declaration of Independence proclaimed by the dwarven rebellion leader H’lorf Ironsmith at the end of the year 1223 AHW.
+
+The rebellion started in the eastern coastal city of Velgorad. The revolutionary movement spread rapidly throughout the dwarven provinces of Es’terra. When the news of the declaration of independence reached the capital, Empress Kaarjha Aenhardt declared war on the rebellion and ordered House Bayezid and House Blaze to suppress it. The suppression of the dwarven uprising was seen as an opportunity for the Empress to prove her reign over the continent.
+
+Lord Aykjaz I Bayezid, head of House Bayezid, and Lord Kharkiv IV Blaze, head of House Blaze, quickly prepared a massive joint offensive against the dwarven defensive lines in the north. However, the dwarves were not planning to merely defend themselves against the imperial forces—they intended to break through the northern front and capture the Blue Keep, to secure their independence and demonstrate their strength to the continent.
+
+The Eastern Campaign proved harsh for both Blaze and Bayezid armies. In the aftermath of the Highclash of Kings, their forces were exhausted, and neither house could afford further casualties or even pay their soldiers’ wages. Most of their troops were weary peasants eager to return home.
+
+Both sides remained in their castles and forts for three months due to the severe winter of northeastern Weserland.
+
+When winter finally faded and spring arrived, both armies began to march. The dwarves adopted a form of lightning warfare against their enemies. Their strategy was to capture the northern forts as quickly as possible and force the Empire into negotiations. However, the strategy of the imperial forces was quite different. They did not expect a dwarven offensive in the north or west; instead, they focused on how to besiege the dwarven castles in the famous eastern mountains. Unfortunately for them, they failed to even lay siege to any of those fortresses.
+
+As the imperial armies advanced toward the dwarven realms, they were stunned by news from the north—the so-called lesser creations of the gods, the dwarves, had launched an offensive against their northern defenses. The imperial commanders quickly redirected their march northward. Reports from the northern castles indicated that the attacking dwarven army was not attempting to capture the fort, but rather to block it from receiving supplies from other strongholds.
+
+While the imperial army was on its way to Highfort, it was ambushed by a dwarven host. The casualties of the imperial troops were severe due to their lack of organization and poor army quality. The dwarves achieved a decisive victory against the Empire. As a result of this massive defeat, the disorganized imperial army dispersed completely. In the aftermath of the battle, officials of both the Dwarven Kingdom and the Human Kingdom signed an armistice.
+
+A month later, diplomats from both sides gathered at Blue Keep to sign a peace treaty. According to the treaty, the dwarves would continue their trade with the continent and would not disrupt it under any circumstances except in times of war. The three famous northern strongholds — Blue Keep, Highfort, and Opplor — would remain under the rule of House Sanders. Meanwhile, the dwarves were granted the right to build a city north of their territory, which would maintain connections between the dwarves and the Houses of Bayezid and Blaze. This city was to be built on the battlefield where the dwarves had won their independence.
+
+At the beginning of the year 1225 AHW, the dwarves finally gained full independence from the humans and declared themselves rulers of the eastern mountains. Their leader, H’lorf Ironsmith, proclaimed himself King of the Dwarven Kingdom — later known as Ironstaadt.
+
+During his reign, King H’lorf Ironsmith became known among his people as “Father Dwarf.” He developed his kingdom extensively and established the first metal industry in Gran’terra. He founded Metal Art Schools to advance smithing techniques and abolished the tradition of bloodline-restricted crafts. Every dwarf was granted the right to become the greatest smith on the continent.
+
+However, following H’lorf Ironsmith’s vast reforms, a conservative faction rose in opposition. This group, called the Goldenfist Brotherhood, claimed that the King’s reforms were misguided and that the wealth brought by them was a deception. Despite their hostility, the King responded in an unexpected way — instead of suppressing them, he proposed the formation of a two-sided council to represent the will of the people. The Goldenfist Brotherhood accepted the proposal. Thus, the famous Dwarven Council was born.
+
+The Council consisted of two factions: the Goldenfist Brotherhood and the Ironsmith Brotherhood. After the death of King H’lorf, the monarch would be chosen by election. The council members would be elected by the citizens of each dwarven city, with eight representatives from each faction. The King himself would remain neutral, unaffiliated with any faction.
