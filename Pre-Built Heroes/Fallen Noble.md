@@ -1,0 +1,1 @@
+Eski Frost hanesinden kalma bir soylu. Hanesi eskiden "Free City" ve Eserland arasındaki ticarette kritik bir aracı rolündeydi ve çok zengindi. İç savaşta Frost hanesinin lağvedilişi ardından yeni kurulan "Bayezid" hanesinin eski Frost için kurduğu ordusu olan "Esaringjan" hanesinde yarı köle asker olarak görev almıştır.

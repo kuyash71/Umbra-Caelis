@@ -1,0 +1,1 @@
+On 1289 AHW, the third heir of House Blaze [[Joshua Blaze]] killed his brother and true heir for throne [[Jayden Blaze]]. He declared himself as "Ruler of Ashrelm" known as the terrority around Flammstate.

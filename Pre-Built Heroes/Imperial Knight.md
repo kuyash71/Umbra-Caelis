@@ -1,0 +1,1 @@
+Aenhardt hanesine ve krallığa doğrudan bağlı olan bir şövalye teşkilatı olan "Dreinachtler"e bağlıdır. Yakın dönemdeki iç savaş nedeniyle tahta yeni çıkmış Aenhardt hanesinin bir şövalyesi olduğu için bazı bölgelerde saygı ile anılmazlar. Her ne kadar yüce ve güçlü bir şövalye olsa da akli sağlığı çok yerinde değildir ve öfke sorunları yaşamaktadır.

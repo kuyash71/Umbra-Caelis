@@ -1,0 +1,1 @@
+Blaze hanesinin "Savarum" birimine bağlı bir alev büyücüsüdür.

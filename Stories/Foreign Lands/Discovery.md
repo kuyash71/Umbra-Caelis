@@ -1,0 +1,1 @@
+Takım von Midon hanesinin en genç varisi olan Lucas von Midon liderliğinde doğuya, keşfe yelken açarlar.
