@@ -1,6 +1,7 @@
 # Obsidian internal
 .obsidian/workspace*
 .obsidian/cache
+.obsidian
 
 # Plugin data (API keys, settings)
 .obsidian/plugins/**/data.json
