@@ -1,0 +1,55 @@
+/* 1) Workspace düzeni grid/gap kullanıyorsa: aradaki column-gap'i kapat */
+.workspace.is-left-sidedock-open {
+  gap: 0 !important;
+  column-gap: 0 !important;
+  grid-column-gap: 0 !important;
+}
+
+/* 2) Sol split container: sağ boşluğu sıfırla */
+.workspace.is-left-sidedock-open .workspace-split.mod-left-split {
+  margin-right: 0 !important;
+  padding-right: 0 !important;
+  border-right: 0 !important;
+}
+
+/* 3) Sol split'ten sonra gelen kök (main) split: soldan ekstra offset varsa kaldır */
+.workspace.is-left-sidedock-open
+  .workspace-split.mod-left-split
+  + .workspace-split.mod-root,
+.workspace.is-left-sidedock-open
+  .workspace-split.mod-left-split
+  + .workspace-split {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+/* 4) Aradaki separator / resize handle hangi class ile gelirse gelsin incelt */
+.workspace.is-left-sidedock-open .workspace-divider,
+.workspace.is-left-sidedock-open .workspace-leaf-resize-handle,
+.workspace.is-left-sidedock-open
+  .workspace-split.mod-horizontal
+  > .workspace-leaf-resize-handle {
+  width: 1px !important; /* 0 yaparsan yakalamak zorlaşabilir; 1px iyi */
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Fancy-a-Story: Sol sidedock yatay row'u kaldır */
+.workspace-split.mod-horizontal.mod-sidedock.mod-left-split {
+  display: flex !important;
+  flex-direction: column !important;
+
+  padding: 0 !important;
+  margin: 0 !important;
+  gap: 0 !important;
+
+  min-height: 0 !important;
+}
+
+/* 5) Tema değişkenleri üzerinden divider genişliği veriliyorsa onu da sıkıştır */
+body {
+  --divider-width: 1px;
+  --divider-vertical-width: 1px;
+  --divider-horizontal-width: 1px;
+  --splitter-width: 1px;
+}
