@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de8423a1f20aee00",
+        "id": "4e8a0e73b0fbe29b",
         "type": "tabs",
         "children": [
           {
-            "id": "605d19eb0c7fc92e",
+            "id": "5b9c19c187466f68",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -198,7 +198,7 @@
       "graph:Grafik görünümünü aç": false
     }
   },
-  "active": "605d19eb0c7fc92e",
+  "active": "5b9c19c187466f68",
   "lastOpenFiles": [
     "Events/1221 AHC - Highclash of Two Crowns.md",
     "Events/108  BHC - Hundred-Year Blood Crusade.md",
